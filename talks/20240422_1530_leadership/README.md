@@ -22,4 +22,8 @@
  6. Deep work
  - Proven benefits to having time to focus
  - studies say, 2 meeting-free days rise to a 71%  productivity raise
- 
+
+ 7. Peers (find peers and keep them close)
+  - leadership team
+  - network
+  - community
