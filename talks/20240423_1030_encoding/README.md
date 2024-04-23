@@ -35,3 +35,6 @@ with open( newline = \r\n)
 mojibake decoder website
 
 suggested - UTF8 for rest api
+
+
+https://tonsky.me/blog/unicode/
